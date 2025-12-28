@@ -31,9 +31,9 @@ https://www.notion.so/frontend-base/v0-0-3-2a75808fb4b18013a038df925e6ba8f7
 ## Источники вопросов
 
 - Мои собесы - TODO
-- Easyoffer - TODO
 - Нарешка - TODO
 
+- Easyoffer - DONE
 - База знаний менторства - DONE
 - HackFrontend - DONE
 - Жарков - Hopeoffer - DONE
