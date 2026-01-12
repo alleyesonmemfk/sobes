@@ -42,6 +42,7 @@ https://www.notion.so/frontend-base/v0-0-3-2a75808fb4b18013a038df925e6ba8f7
 - HackFrontend - DONE
 - Жарков - Hopeoffer - DONE
 
+- Ульби - список моковых вопросов - HOLD
 - Ульби - нужна подписка - HOLD
 - Собесы Макса - надо отсмотреть - HOLD
 - База собесов авось - надо отсмотреть - HOLD
